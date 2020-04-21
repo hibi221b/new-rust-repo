@@ -3,7 +3,7 @@ this repo explain How to register a rustlang project in the remote repository
 
 1. $cargo new NEW_PROJECT
 2. $cd NEW_PROJECT
-3. create new remote repository
+3. create new remote repository (access github)
    - should be the same name 
    - add README.md 
    - **NOT** add .gitignore file. already exists in NEW_PROJECT
